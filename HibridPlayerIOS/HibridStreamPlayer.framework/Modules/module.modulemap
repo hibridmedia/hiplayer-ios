@@ -1,0 +1,11 @@
+framework module HibridStreamPlayer {
+  umbrella header "HibridStreamPlayer.h"
+
+  export *
+  module * { export * }
+}
+
+module HibridStreamPlayer.Swift {
+    header "HibridStreamPlayer-Swift.h"
+    requires objc
+}
