@@ -105,3 +105,5 @@
 
 * Add incoming access keys to AppDelegate and you're done. Launch the project on a mobile device.
 
+
+> Hibrid Player iOS
