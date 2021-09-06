@@ -89,10 +89,7 @@
 
 <h3>Set up your SDK</h3>
 
-* Import SDK 
-    
-    "Import HibridStreamPlayer”
-
+* Import SDK "Import HibridStreamPlayer”
 * Drag outlet to ViewController.
 
 ![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction4.png)
@@ -100,8 +97,6 @@
 
 
 <h3>Set up your SDK</h3>
-
-
 
 * Add incoming access keys to AppDelegate and you're done. Launch the project on a mobile device.
 
