@@ -15,7 +15,7 @@
 * In the project directory, create a file: module.modulemap with a .dist extension.**
 * To do this, you can create an empty file using Xcode.**
 
-
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/64613e8174bd237db832d7949dc1be7ef57e3250/InstructionImages/instruction1.png)
 
 <br>
 
