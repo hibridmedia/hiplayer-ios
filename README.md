@@ -46,7 +46,7 @@
 
 * The HibridPlayerIOS SDK is available through CocoaPods. Initialize the podfile and add the code to your Podfile from the example below. After adding, run **pod install.**
 
-
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction2.png)
 
 
 
@@ -83,7 +83,7 @@
 * Create your UIView.
 * Add for view our class “HibridPlayerView” and add our module “HibridStreamPlayer”.
 
-
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction3.png)
 
 
 
@@ -95,7 +95,7 @@
 
 * Drag outlet to ViewController.
 
-
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction4.png)
 
 
 
@@ -105,5 +105,6 @@
 
 * Add incoming access keys to AppDelegate and you're done. Launch the project on a mobile device.
 
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction5.png)
 
 > Hibrid Player iOS
