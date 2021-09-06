@@ -58,7 +58,7 @@
 
     target 'YourTargetName' do
 
-    pod 'HibridPlayerIOS', git: '<https://github.com/Bo-Bogdan/HibridPlayerIOS.git>'
+    pod 'HibridPlayerIOS'
 
     end
 
