@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name             = 'HibridPlayerIOS'  
-s.version          = '0.0.1'  
+s.version          = '0.0.2'  
 s.summary          = 'Hibrid player is a library on swift.'
 # s.description      = <<-DESC 
 # 			"Hibrid player is a library on swift."
