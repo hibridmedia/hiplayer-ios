@@ -17,12 +17,14 @@ extension UIKit.UIResponder {
 @_hasMissingDesignatedInitializers public class HibridPlayerAccess {
   public static var channelKey: Swift.String
   public static var autoplay: Swift.Bool
-  public static var lisence: Swift.String
+  public static var license: Swift.String
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class HibridPlayerView : UIKit.UIView {
   @objc deinit
   @objc override dynamic public func awakeFromNib()
+  @_Concurrency.MainActor(unsafe) public func playHibridPlayer(channelKey: Swift.String? = nil)
+  @_Concurrency.MainActor(unsafe) public func invalidateHibridPlayer()
   @objc override dynamic public func observeValue(forKeyPath keyPath: Swift.String?, of object: Any?, change: [Foundation.NSKeyValueChangeKey : Any]?, context: Swift.UnsafeMutableRawPointer?)
 }
 extension HibridStreamPlayer.HibridPlayerView : GoogleInteractiveMediaAds.IMAAdsLoaderDelegate {
