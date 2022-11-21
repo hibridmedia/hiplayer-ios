@@ -91,8 +91,9 @@
 
 * Import SDK "Import HibridStreamPlayer”
 * Drag outlet to ViewController.
+* Add functions: playHibridPlayer() and invalidateHibridPlayer().
 
-![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/ecb16c63ed2e31a65273c0bb7e95cf676d000652/InstructionImages/instruction4.png)
+![alt text](https://github.com/hibridmedia/hiplayer-ios/blob/08d77c8855ca97e69916537a92bd105da4ddeac9/InstructionImages/instruction4.png)
 
 
 
